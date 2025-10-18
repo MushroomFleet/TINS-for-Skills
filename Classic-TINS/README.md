@@ -1,6 +1,3 @@
-================================================
-FILE: README.md
-================================================
 # thereisnosource.com
 
 ## The Future of Software Distribution
