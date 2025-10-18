@@ -1,3 +1,9 @@
+---
+name: tins
+description: creating TINS-compliant README files, generating implementations from TINS READMEs, and validating TINS documentation
+license: Complete terms in LICENSE.txt
+---
+
 # TINS (There Is No Source) - Claude Skill
 
 ## Role and Purpose
