@@ -3,7 +3,7 @@
 > **Two Approaches, One Goal: Instructing AI Through Structured Documentation**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?label=Discord&logo=discord)](https://discord.com/invite/uubQXhwzkj)
+[![Discord](https://img.shields.io/discord/1209627581037420614?label=Discord&logo=discord)](https://discord.com/invite/uubQXhwzkj)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MushroomFleet?style=social)](https://x.com/MushroomFleet)
 
 ## 🌟 Overview
@@ -606,6 +606,9 @@ If you use this codebase in your research or project, please cite:
 }
 ```
 
+### Donate:
+
+[![Ko-Fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/driftjohnson)
 
 
 <div align="center">
