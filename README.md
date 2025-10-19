@@ -590,6 +590,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## 📚 Citation
+
+### Academic Citation
+
+If you use this codebase in your research or project, please cite:
+
+```bibtex
+@software{tins_for_skills,
+  title = {TINS for Skills: Using TINS with Claude Skill.md},
+  author = {[Drift Johnson]},
+  year = {2025},
+  url = {https://github.com/MushroomFleet/TINS-for-Skills},
+  version = {1.0.0}
+}
+```
+
+
+
 <div align="center">
 
 **Made with ❤️ by the TINS & Claude Skills Community**
